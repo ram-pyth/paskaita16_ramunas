@@ -1,0 +1,1 @@
+print("Monikos asmeninis failas")
